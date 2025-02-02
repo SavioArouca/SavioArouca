@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Programação é minha paixão e adoro contri
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube.com/channel/UCriE7RoBpk1nxUA4Q2Eqgew?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/UCriE7RoBpk1nxUA4Q2Eqgew?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
