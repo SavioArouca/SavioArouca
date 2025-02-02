@@ -1,4 +1,4 @@
-# Olá, meu nome é Sávio Arouca 👋
+Sávio Arouca 👋
 - **`Desenvolvedor Web Front-End Júnior`**
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação e adoro contribuir para projetos de código aberto. Aqui você encontrará uma variedade de repositórios que mostram meu trabalho, interesses e habilidades.
