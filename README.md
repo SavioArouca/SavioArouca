@@ -1,5 +1,5 @@
 ## Sávio Arouca
-- **`Desenvolvedor Front-End`**
+**`Desenvolvedor Front-End`**
 
 Bem-vindo ao meu perfil no GitHub! Programação é minha paixão e adoro contribuir para projetos de código aberto. Aqui você encontrará uma variedade de repositórios que mostram meu trabalho, interesses e habilidades.
 
