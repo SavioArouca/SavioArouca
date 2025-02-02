@@ -31,11 +31,6 @@ Bem-vindo ao meu perfil no GitHub! Programação é minha paixão e adoro contri
 
   - Em busca da primeira experiênica profissional
 
-- **Estagiário na StartUpX** (2022 - 2023)
-  - Auxiliei no desenvolvimento de aplicações móveis usando React Native
-  - Contribuí para serviços backend usando Django e Flask
-  - Participei de revisões de código e cerimônias ágeis
-
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub do LireFire](https://github-readme-stats.vercel.app/api?username=LireFire&show_icons=true&theme=radical)
