@@ -33,7 +33,7 @@ Bem-vindo ao meu perfil no GitHub! Programação é minha paixão e adoro contri
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub do LireFire](https://github-readme-stats.vercel.app/api?username=LireFire&show_icons=true&theme=radical)
+![Estatísticas do GitHub do LireFire](https://github-readme-stats.vercel.app/api?username=SavioArouca&show_icons=true&theme=radical)
 
 ## 📫 Entre em Contato
 
