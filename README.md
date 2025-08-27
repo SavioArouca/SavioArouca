@@ -44,8 +44,7 @@ Bem-vindo ao meu perfil no GitHub! Programação é minha paixão e adoro contri
 ## 📝 Últimos Posts no Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Título do Primeiro Post do Blog](https://yourblog.com/first-post)
-- [Título do Segundo Post do Blog](https://yourblog.com/second-post)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Curiosidades
